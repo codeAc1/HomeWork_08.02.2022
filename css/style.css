@@ -284,10 +284,12 @@ a {
     text-align: center;
     width: 100%;
     margin-bottom: 2rem;
+    justify-content: center;
 }
 #blog .container .all .top p{
     text-align: center;
-    width: 100%;
+    width: 50%;
+    margin: auto;
 }
 #blog .container .all .top h1{
     font-size: 2rem;
@@ -465,6 +467,7 @@ a {
     #blog .container .all .top p{
         text-align: center;
         width: 100%;
+        
     }
     #blog .container .all .top h1{
         font-size: 2rem;
